@@ -255,7 +255,7 @@ let people: [SelfIntroduction] = [
         hobby: "깃 연습중입니다",
         mbti: "INTJ",
         strength: "끈기와 실행력",
-        sns: nil,
+        sns: "커밋을 두 개 생성하고 또 생성합니다",
         etc: "깃 마스터하고 취업하겠습니다!",
         job: "배달의민족 - iOS 개발자"
     ),
