@@ -40,14 +40,14 @@ let people: [SelfIntroduction] = [
         job: "삼성 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "윤혜주",
+        name: "윤혜주 (수정됨)",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
-        hobby: "음악 감상, 여행",
+        hobby: "음악 감상, 여행, 독서 등",
         mbti: "ENTP",
         strength: "끈기와 실행력",
         sns: nil,
-        etc: "열심히 수료하고 취업",
-        job: "iOS 개발자"
+        etc: "열심히 수료하고 취업하겠습니다!",
+        job: "마이크로소프트 - iOS 개발자"
     ),
     SelfIntroduction(
         name: "이유정",
@@ -250,13 +250,13 @@ let people: [SelfIntroduction] = [
         job: "카카오 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "전윤철",
+        name: "전윤철 (수정됨)",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
         hobby: "음악 감상, 여행, 독서 등",
         mbti: "INTJ",
         strength: "끈기와 실행력",
         sns: nil,
-        etc: "깃 마스터 두번째하고 취업하겠습니다!",
+        etc: "열심히 수료하고 취업하겠습니다!",
         job: "배달의민족 - iOS 개발자"
     ),
     SelfIntroduction(
@@ -370,14 +370,14 @@ let people: [SelfIntroduction] = [
         job: "마이크로소프트 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "고재현",
+        name: "고재현 (수정됨)",
         trainingPurpose: "iOS 앱 개발에 관심이 생겨서 참여",
         hobby: "축구, 풋살, 스포츠 경기 관람 등",
         mbti: "ISFJ",
         strength: "열심히",
         sns: nil,
         etc: "열심히 수료하고 취업하겠습니다!",
-        job: "구글 - iOS 개발자"
+        job: "iOS 앱 개발자"
     ),
     SelfIntroduction(
         name: "계주성",
@@ -400,13 +400,13 @@ let people: [SelfIntroduction] = [
         job: "삼성 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "장지현 (수정2)",
-        trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여~!",
+        name: "장지현 (수정됨)",
+        trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
         hobby: "자전거 타기",
         mbti: "ISTP",
         strength: "호기심",
         sns: nil,
-        etc: "열심히 수료하고 취업하겠습니다!!!",
+        etc: "열심히 수료하고 취업하겠습니다!",
         job: "토스 - iOS 개발자"
     ),
     SelfIntroduction(
