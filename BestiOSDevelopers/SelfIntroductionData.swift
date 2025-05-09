@@ -45,7 +45,7 @@ let people: [SelfIntroduction] = [
         hobby: "음악 감상, 여행",
         mbti: "ENTP",
         strength: "끈기와 실행력",
-        sns: nil,
+        sns: "pr test",
         etc: "열심히 수료하고 취업",
         job: "iOS 개발자"
     ),
